@@ -1,7 +1,7 @@
 <div id="" align="center">
   <img src="" width="100%"/>
 </div>
-<h1 align="center">Hi 👋, I'm Arijan Jašarević Garcia</h1>
+<h1 align="center">Hi 👋, I'm Arijan Jašarević</h1>
 <h3 align="center">A developer from Rijeka, Croatia</h3>
 <h4 align="center">Hi my name is Arijan Jašarević a web developer based in Rijeka, Croatia. I've worked in IT industry for 2+ years. My goal is to get a job as a backend developer using TypeScript and Node JS, but I'm also learning frontend frameworks like React Js, and other backend languages like PHP. </h4>
 
