@@ -14,12 +14,12 @@
 <h2 align="center">Skills</h2>
 
 <div align="center">
-                    <div align="center" >
 		      <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/f1b995e4-bfe4-4bfb-a7b6-55466deb1045" alt="ts" width="75" height="75"/>
-		      <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/1e2192b6-1b89-4ccd-a399-dd174e43387a" alt="nodejs" width="75" height="75"/>
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="75" height="75"/> 
 		      <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain-wordmark.svg" alt="css3" width="75" height="75"/>
+		      <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/1e2192b6-1b89-4ccd-a399-dd174e43387a" alt="nodejs" width="75" height="75"/>
 	              <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/82d8ce8b-03db-4bb2-96e6-9d657df3b6ae" alt="reactjs" width="75" height="75"/>
+	       	      <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/94451a4b-856a-44ae-a18b-ff8ebec11f74" alt="python" width="75" height="75"/>
                       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="75" height="75"/> 
                       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="75" height="75"/>
