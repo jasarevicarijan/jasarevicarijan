@@ -2,9 +2,9 @@
   <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/48c9eee9-5a28-4df1-88d8-d0b3abab682d" width="100%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Arijan Jašarević</h1>
+<h1 align="center">Hi, I'm Arijan Jašarević</h1>
 <h3 align="center">A developer from Rijeka, Croatia</h3>
-<h4 align="center">I’m a passionate Junior Frontend React Developer with a zest for creating captivating user experiences. While my focus is on the frontend, I’m also exploring the world of backend development with Node.js.
+<h4 align="center">👋 I’m a passionate Junior Frontend React Developer with a zest for creating captivating user experiences. While my focus is on the frontend, I’m also exploring the world of backend development with Node.js. <br>
 
 🚀 As an aspiring Fullstack Developer, I’m on a journey to expand my skills and recently set my sights on mastering PHP Laravel for backend development. I believe that a holistic understanding of both frontend and backend technologies is key to crafting seamless, end-to-end solutions.
 
