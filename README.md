@@ -4,7 +4,17 @@
 
 <h1 align="center">Hi 👋, I'm Arijan Jašarević</h1>
 <h3 align="center">A developer from Rijeka, Croatia</h3>
-<h4 align="center">Hi my name is Arijan Jašarević a web developer based in Rijeka, Croatia. I've worked in IT industry for 2+ years. My goal is to get a job as a backend developer using TypeScript and Node JS, but I'm also learning frontend frameworks like React Js, and other backend languages like PHP. </h4>
+<h4 align="center">I’m a passionate Junior Frontend React Developer with a zest for creating captivating user experiences. While my focus is on the frontend, I’m also exploring the world of backend development with Node.js.
+
+🚀 As an aspiring Fullstack Developer, I’m on a journey to expand my skills and recently set my sights on mastering PHP Laravel for backend development. I believe that a holistic understanding of both frontend and backend technologies is key to crafting seamless, end-to-end solutions.
+
+💡 I thrive on challenges and am committed to continuous learning. My current mission involves honing my React skills, delving into Node.js backend intricacies, and venturing into the exciting realm of PHP Laravel.
+
+🌐 Let’s connect and explore the ever-evolving landscape of web development together! I’m open to collaboration, mentorship, and connecting with like-minded professionals who share a passion for building innovative and user-friendly digital experiences.
+
+🏋🏻‍♂️ Outside of coding, you’ll find me enjoying a good workout, playing football on the weekends, and carving through snowy slopes on skis. I cherish quality time with friends, and there’s nothing like getting lost in the pages of a good book.
+
+📬 Feel free to reach out—I’m always up for engaging conversations and new opportunities!</h4>
 
 <hr>
 
