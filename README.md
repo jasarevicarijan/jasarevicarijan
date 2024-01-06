@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/48c9eee9-5a28-4df1-88d8-d0b3abab682d" width="100%"/>
+  <img src="https://github.com/jasarevicarijan/jasarevicarijan/assets/149038123/70afbd1b-6159-4522-9c42-fef6ecc22e61" width="100%"/>
 </div>
 
 <h1 align="center">Hi, I'm Arijan Jašarević</h1>
