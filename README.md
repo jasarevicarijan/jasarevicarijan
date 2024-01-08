@@ -4,17 +4,17 @@
 
 <h1 align="center">Hi, I'm Arijan Jašarević</h1>
 <h3 align="center">A developer from Rijeka, Croatia</h3>
-<h4 align="center">👋 I’m a passionate Junior Frontend React Developer with a zest for creating captivating user experiences. While my focus is on the frontend, I’m also exploring the world of backend development with Node.js.
+<h4 align="center">👋 Hello, GItHub community! I’m Arijan, a passionate Developer with a zest for creating captivating user experiences. While my focus currently is on the frontend, I’m also familiar with the world of backend development using Node.js. My biggest passion is exploring the fascinating realm of data science in my free time.
 <br><br>
-🚀 As an aspiring Fullstack Developer, I’m on a journey to expand my skills and recently set my sights on mastering PHP Laravel for backend development. I believe that a holistic understanding of both frontend and backend technologies is key to crafting seamless, end-to-end solutions.
+🚀 As an aspiring Fullstack Developer, I’m on a journey to expand my skills and have recently set my sights on mastering PHP Laravel for backend development. I believe that a holistic understanding of both frontend, backend technologies, and data science is key to crafting seamless, end-to-end solutions.
 <br><br>
-💡 I thrive on challenges and am committed to continuous learning. My current mission involves honing my React skills, delving into Node.js backend intricacies, and venturing into the exciting realm of PHP Laravel.
+💡 I thrive on challenges and am committed to continuous learning. My current mission involves honing my React skills, delving into Node.js backend intricacies, venturing into PHP Laravel, and exploring the insights that data science brings to the table.
 <br><br>
-🌐 Let’s connect and explore the ever-evolving landscape of web development together! I’m open to collaboration, mentorship, and connecting with like-minded professionals who share a passion for building innovative and user-friendly digital experiences.
+🌐 Let’s connect and explore the ever-evolving landscape of web development and data science together! I’m open to collaboration, mentorship, and connecting with like-minded professionals who share a passion for building innovative and user-friendly digital experiences.
 <br><br>
 🏋🏻‍♂️ Outside of coding, you’ll find me enjoying a good workout, playing football on the weekends, and carving through snowy slopes on skis. I cherish quality time with friends, and there’s nothing like getting lost in the pages of a good book.
 <br><br>
-📬 Feel free to reach out—I’m always up for engaging conversations and new opportunities!</h4>
+📬 Feel free to reach out—I’m always up for engaging conversations and new opportunities!
 
 <hr>
 
